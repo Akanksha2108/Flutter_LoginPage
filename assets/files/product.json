@@ -1,0 +1,68 @@
+{
+    "product": [
+        {
+            "id": "1",
+            "name": "Samsung Galaxy",
+            "desc": "Galaxy Z Flip4",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://m.media-amazon.com/images/I/61QRgOgBx0L._SL1500_.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Samsung Watch",
+            "desc": "Galaxy Watch4 Bluetooth (40mm)",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-sm-r860nzdainu-481079019?$2052_1641_PNG$"
+        },
+        {
+            "id": "3",
+            "name": "Samsung Watch",
+            "desc": "Galaxy Watch4 Bluetooth (44mm)",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzkainu-481111391?$730_584_PNG$"
+        },
+        {
+            "id": "4",
+            "name": "Samsung Earbuds",
+            "desc": "Galaxy Buds2",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-buds2-r177-sm-r177nlvainu-481740553?$684_547_PNG$"
+        },
+        {
+            "id": "5",
+            "name": "Apple Earpods",
+            "desc": "Ultra-light, Comfortable & Legendary JBL Sound for Everyone",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://m.media-amazon.com/images/I/615ekapl+pL._SL1500_.jpg"
+        },
+        {
+            "id": "6",
+            "name": "One plus",
+            "desc": "OnePlus Nord CE 2 Lite 5G (8 GB RAM, 128 GB ROM, Blue Tide)",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://m.media-amazon.com/images/I/41NOKPCVM7L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": "7",
+            "name": "One plus",
+            "desc": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 256GB Storage)",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://m.media-amazon.com/images/I/71AvQd3VzqL._SL1500_.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Mac Book",
+            "desc": "Apple Macbook air with apple silicon",
+            "color": "blue",
+            "price": 999,
+            "imageurl": "https://m.media-amazon.com/images/I/61L5QgPvgqL._SL1500_.jpg"
+        }
+    ]
+}
